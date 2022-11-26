@@ -1,0 +1,4 @@
+# Project exclude paths
+/gateway/target/
+/service-registry/target/
+/simple-service/target/
